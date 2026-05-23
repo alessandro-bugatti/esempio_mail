@@ -1,3 +1,5 @@
 vendor/
 
 conf/config.php
+
+.idea
